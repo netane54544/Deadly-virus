@@ -13,6 +13,6 @@ After that i will delete system32 files and insult you for Opening it at the sam
 and at the end it will shutdown you windows so the changes will take effect.
 
 # How do I know the virus works?
-The virus was tested on old computer and windows on virtulbox
+The virus was tested on old computer and windows 7 and 8 on Vmware
 And one time my friend and me tested it on other friend pc and it worked
 Is pc needed a reboot after that.
