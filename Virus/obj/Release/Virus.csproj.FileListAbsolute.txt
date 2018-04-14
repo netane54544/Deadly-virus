@@ -1,0 +1,6 @@
+C:\Users\netanelmain\Desktop\c#\Virus\Virus\bin\Release\Overwatch.exe.config
+C:\Users\netanelmain\Desktop\c#\Virus\Virus\bin\Release\Overwatch.exe
+C:\Users\netanelmain\Desktop\c#\Virus\Virus\bin\Release\Overwatch.pdb
+C:\Users\netanelmain\Desktop\c#\Virus\Virus\obj\Release\Virus.csprojResolveAssemblyReference.cache
+C:\Users\netanelmain\Desktop\c#\Virus\Virus\obj\Release\Overwatch.exe
+C:\Users\netanelmain\Desktop\c#\Virus\Virus\obj\Release\Overwatch.pdb
